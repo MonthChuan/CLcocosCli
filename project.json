@@ -1,16 +1,18 @@
 {
-    "debugMode"     : 1,
-    "frameRate"     : 60,
-    "showFPS"       : false,
-    "id"            : "gameCanvas",
-    "renderMode"    : 1,
-    "jsList" : [
-        "src/public/resource.js",
-        "src/public/ShowScene.js",
-        "src/public/bgOne.js",
-        "src/public/common.js",
-        "src/public/app.js",
-        "src/public/audio.js",
-        "src/public/data.js"
-    ]
+  "debugMode": 1,
+  "frameRate": 60,
+  "showFPS": false,
+  "id": "gameCanvas",
+  "renderMode": 1,
+  "jsList": [
+    "src/resource.js",
+    "src/playScenc.js",
+    "src/audio.js",
+    "src/common.js",
+    "src/data.js",
+    "src/secondleve.js",
+    "src/startScene1.js",
+    "src/startScene2.js",
+    "src/firstleve1.js"
+  ]
 }
